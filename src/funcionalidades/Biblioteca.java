@@ -31,6 +31,7 @@ public class Biblioteca {
         
         public static void agregarLibro(Libros libro){
             listaLibros.add(libro);
+            //este metodo permite agrega el objeto libro a la coleccion de libros
         }
         
         public static void agregarUsuario(Usuarios usuario) {
